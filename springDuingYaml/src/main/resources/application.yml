@@ -1,0 +1,7 @@
+server:
+  port:
+    8090
+
+food:
+  apple: 苹果
+  juice: 橘子
